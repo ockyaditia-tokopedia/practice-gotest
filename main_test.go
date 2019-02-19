@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/wendyadi/go_test_example/data"
+	"github.com/ywoonder/practice-gotest/data"
 )
 
 func getUserDummy(id int64) (data.User, error) {

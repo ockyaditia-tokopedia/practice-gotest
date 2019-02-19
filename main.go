@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/wendyadi/go_test_example/data"
+	"github.com/ywoonder/practice-gotest/data"
 )
 
 func main() {
