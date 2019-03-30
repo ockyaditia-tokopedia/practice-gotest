@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
+	"github.com/practice-gotest/data"
 	"github.com/stretchr/testify/assert"
-	"github.com/ywoonder/practice-gotest/data"
 )
 
 func getUserDummy(id int64) (data.User, error) {
